@@ -15,15 +15,3 @@ lndong2612 is a ✨ special ✨ repository because its README.md (this file) app
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,docker,linux)](https://skillicons.dev)
-
-### GitHub Stats:
-<div style="display: flex; flex-direction: row; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=lndong2612&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lndong2612&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
-</div>
-
-### Contributions in the last year
-[![lndong2612's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lndong2612&theme=tokyonight&hide_border=true&area=true)](https://github.com/lndong2612)
-
-### Visitor Counter:
-<img alt="Visitor Counter" width="50%" src="https://profile-counter.glitch.me/lndong2612/count.svg" />
