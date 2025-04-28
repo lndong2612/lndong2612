@@ -4,11 +4,9 @@
 lndong2612 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
 
-<h1>Loo</h1>
+<h1>COYG</h1>
 
-<b>Le</b>.
-<b>Nhan</b>.
-<b>Dong</b>.
+<b>ARSENAL</b>.
 
 - 💻 I’m currently working on Python, PyTorch, TensorFlow, and AI Systems.
 - 👨‍💻 My life: [https://www.facebook.com/dongarsenal2612/](https://www.facebook.com/dongarsenal2612)
