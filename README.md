@@ -4,7 +4,7 @@
 lndong2612 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
 </p>
 
 <h1>COYG</h1>
@@ -12,7 +12,7 @@ lndong2612 is a ✨ special ✨ repository because its README.md (this file) app
 <b>I'm a die-hard fan of **Arsenal FC**</b>.
 
 - 💻 I’m currently working on Python, PyTorch, TensorFlow, and AI Systems.
-- 👨‍💻 My life: [https://www.facebook.com/dongarsenal2612/](https://www.facebook.com/dongarsenal2612)
+
 <p align="left"> <a href="https://www.linkedin.com/in/lndong2612/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"> </a> 
 <a href="https://github.com/lndong2612" target="_blank"> <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"> </a> 
 <a href="mailto:lndong2612@gmail.com"> <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail"> </a> 
