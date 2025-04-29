@@ -16,8 +16,8 @@ lndong2612 is a ✨ special ✨ repository because its README.md (this file) app
 <p align="left"> <a href="https://www.linkedin.com/in/lndong2612/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"> </a> 
 <a href="https://github.com/lndong2612" target="_blank"> <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"> </a> 
 <a href="mailto:lndong2612@gmail.com"> <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail"> </a> 
-<a href="https://www.instagram.com/lndong2612/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"> </a> 
-<a href="https://www.facebook.com/lndong2612" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"> </a> </p>
+<a href="https://www.instagram.com/ddoooooongg" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"> </a> 
+<a href="https://www.facebook.com/dongarsenal2612" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"> </a> </p>
 ---
 
 ### 🚀 Arsenal Passion Section
