@@ -32,6 +32,6 @@ lndong2612 is a ✨ special ✨ repository because its README.md (this file) app
 
 ### 📈 Contribution Graph
 
-[![Dong's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lndong2612&theme=tokyonight&hide_border=true&area=true)](https://github.com/lndong2612)
+[![Dong's GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lndong2612&theme=tokyonight&hide_border=true&area=true)](https://github.com/lndong2612)
 
 ---
