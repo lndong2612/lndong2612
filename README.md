@@ -20,7 +20,7 @@ lndong2612 is a ✨ special ✨ repository because its README.md (this file) app
 ### 🚀 Arsenal Passion Section
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="300"/>
+  <img src="https://i.giphy.com/xT0xeJpnrWC4XWblEk.webp" width="300"/>
 </p>
 
 > *"Victory through harmony — we believe in The Arsenal way."*  
